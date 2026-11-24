@@ -1,0 +1,9 @@
+<resources>
+    <color name="background">#FFFFFF</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="text">#101828</color>
+    <color name="subtle">#667085</color>
+    <color name="divider">#EAECF0</color>
+    <color name="chipBg">#EAF7EE</color>
+    <color name="chipText">#1D7A34</color>
+</resources>
